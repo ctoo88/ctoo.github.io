@@ -13,4 +13,4 @@ Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine. Node.j
 
 ### 开源项目
 
-* 斗地主小游戏--采用面向对象思维编写游戏元素，用函数方法编写游戏事件。[Read more](https://ctoo88.github.io/ddz)
+* 斗地主小游戏——采用面向对象思维编写游戏元素，用函数方法编写游戏事件。[Read more](https://ctoo88.github.io/ddz)
