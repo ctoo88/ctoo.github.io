@@ -13,4 +13,4 @@ Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine. Node.j
 
 ### 开源项目
 
-* 斗地主小游戏——采用面向对象思维编写游戏元素，利用browserify.js管理游戏元素模块，采用phaser.js将游戏对象渲染成WebGL/canvas，每当对象更新都重新进行渲染，实现游戏效果。[Read more](https://ctoo88.github.io/ddz)
+* 斗地主小游戏——采用面向对象思维编写游戏元素，利用browserify.js管理游戏元素模块，采用phaser.js将游戏对象渲染成WebGL/canvas，每当游戏对象数据更新都重新进行渲染，实现游戏效果。[Read more](https://ctoo88.github.io/ddz)
