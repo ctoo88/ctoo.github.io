@@ -1,4 +1,4 @@
-# Ctoo Home
+# Ctooic Home
 
 >一个人觉醒时的力量，应该大于一颗种子！
 
