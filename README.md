@@ -8,3 +8,10 @@
 涉及html, css, js, node 以及基于上述语言的常用框架。
 
 [Read more](https://ctoo88.github.io/blog)
+
+### HybridApp
+
+一个基于cordova的跨平台app方案。
+web端采用react系列框架，可根据个人喜好替换成其他框架。
+
+[Read more](https://github.com/ctoo88/web-app-demo)
