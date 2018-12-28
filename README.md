@@ -9,9 +9,14 @@
 
 [Read more](https://ctoo88.github.io/blog)
 
-### HybridApp
+### Website
 
-一个基于cordova的跨平台app方案。
-web端采用react系列框架，可根据个人喜好替换成其他框架。
+A static content-oriented website built with Gatsby.
+
+[Read more](https://github.com/ctoo88/gatsby-static-website)
+
+### WebApp
+
+A single-page app built with React.
 
 [Read more](https://github.com/ctoo88/web-app-demo)
