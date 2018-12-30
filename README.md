@@ -4,7 +4,7 @@
 
 ### Blog
 
-Some articles about html, css, js, linux, android...
+Some articles about html, css, js, linux, android ...
 
 [Read more](https://ctoo88.github.io/blog)
 
