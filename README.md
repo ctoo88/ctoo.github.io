@@ -18,7 +18,7 @@ A static content-oriented website built with Gatsby.
 
 A single-page app built with React.
 
-[Read more](https://github.com/ctoo88/web-app-demo)
+[Read more](https://github.com/ctoo88/react-single-page-app)
 
 ### HeroLegend
 
