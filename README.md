@@ -19,3 +19,9 @@ A static content-oriented website built with Gatsby.
 A single-page app built with React.
 
 [Read more](https://github.com/ctoo88/web-app-demo)
+
+### HeroLegend
+
+Long ago, a queer man came to a town called Peace for no reason. Nobody knows what will happen to him. Except you...
+
+[Read more]()
