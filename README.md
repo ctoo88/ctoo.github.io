@@ -20,8 +20,8 @@ A single-page app built with React.
 
 [Read more](https://github.com/ctoo88/react-single-page-app)
 
-### HeroLegend
+### Owlda
 
-Long ago, a queer man came to a town called Peace for no reason. Nobody knows what will happen to him. Except you...
+Coming soon...
 
-[Read more](https://github.com/ctoo88/hero-legend)
+[Read more](https://github.com/ctoo88/owlda)
